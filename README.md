@@ -63,7 +63,7 @@ paper_finder/
 ## 支持的数据库
 
 - PubMed
-- Scopus
+- Scopus (waiting fot API)
 - bioRxiv
 - Web of Science
 
